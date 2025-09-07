@@ -1,0 +1,6 @@
+{
+  name: "TimedGlobalDataDistributor",
+  tree: {
+    "$path": "src"
+  }
+}
